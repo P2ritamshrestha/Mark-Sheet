@@ -56,3 +56,8 @@ private static void displayMarkSheet(Marksheet marksheet) {
     System.out.println("Division : " + (division.isEmpty() ? "-" : division));
     System.out.println("Percentage : " + (percentage == 0 ? "-" : percentage));
 }
+
+## Contact
+If you have any questions or feedback, feel free to reach out via:
+- **E-mail:** p2ritamsthagrk@gmail.com
+- **Instagram:** [@p1ritam](https://www.instagram.com/p1ritam/)
