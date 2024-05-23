@@ -89,7 +89,7 @@ class MarksheetManager {
 
     public void addMarksheet(Marksheet marksheet) {
         marksheets.add(marksheet);
-        System.out.println("Marksheet added successfully!");
+        System.out.println("Successfully add Marksheet");
     }
 
     public void viewMarksheet(int rollNumber) {
